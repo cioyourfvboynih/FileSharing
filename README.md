@@ -5,7 +5,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@PocongUserbot](https://www.telegram.dog/PocongUserbot)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@projectcio](https://www.telegram.dog/projectcio)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -41,7 +41,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
     
 ```
 bash
-git clone https://github.com/Jstkyy/FileSharing
+git clone https://github.com/cioyourfvboynih/FileSharing
 cd FileSharing
 pip3 install -r requirements.txt
 cp sample_config.env config.env
@@ -82,7 +82,7 @@ bash start
 * `OWNER_ID` Masukan User ID Telegram untuk Owner BOT
 * `CHANNEL_ID` Masukan ID Channel Untuk [Channel Database] contoh:- -100xxxxxxxx
 * `ADMINS` Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]
-* `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://github.com/Jstkyy/FileSharing/blob/main/README.md#start_message'>format</a> parsemode HTML 
+* `START_MESSAGE` Opsional: Pesan /start memulai awalan ke bot, Gunakan <a href='https://github.com/cioyourfvboynih/FileSharing/blob/main/README.md#start_message'>format</a> parsemode HTML 
 * `FORCE_SUB_MESSAGE` Opsional: Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML
 * `FORCE_SUB_CHANNEL` Masukan ID dari Channel Untuk Wajib Subscribenya
 * `FORCE_SUB_GROUP` Masukan ID dari Group Untuk Wajib Subscribenya
@@ -108,7 +108,7 @@ bash start
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/PocongUserbot) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/Pocongproject) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/projectcio) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/ciomusic) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
