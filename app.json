@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/JstKyy/FileSharing",
-  "logo": "https://telegra.ph/file/3b4d6f0bd47afcc9de01b.jpg",
+  "repository": "https://github.com/cioyourfvboynih/FileSharing",
+  "logo": "https://telegra.ph/file/4dfcbb8822b70d56b18d1.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "pocongonlen"
+      "value": "cioyourfvboy"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "1675900974"
+      "value": "1780709155"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
@@ -47,7 +47,7 @@
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
-      "value": "<b>Hello {first}\n\nSaya dapat menyimpan file pribadi di Channel Tertentu dan pengguna lain dapat mengaksesnya dari link khusus.\n\nJika ingin memiliki bot seperti ini silahkan hubungi @KyyyyNoCounter.</b>"
+      "value": "<b>Hello {first}\n\nSaya dapat menyimpan file pribadi di Channel Tertentu dan pengguna lain dapat mengaksesnya dari link khusus.\n\nJika ingin memiliki bot seperti ini silahkan hubungi @cioyourfvboy.</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
