@@ -29,9 +29,9 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
     <summary> <b>🔗 Deploy On Heroku</b></summary><br/>
 
 
-<p align="center"><a href="https://userbotindo.tech"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/cioyourfvboynih/FileSharing"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
 
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=SnN0a3l5L0ZpbGVTaGFyaW5nIG1hc3Rlcg"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Bot%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
+<p align="center"><a href=""><img src="https://img.shields.io/badge/Deploy%20Lewat%20Bot%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
 
 </details>
 
